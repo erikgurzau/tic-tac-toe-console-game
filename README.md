@@ -3,6 +3,7 @@ Java tris (tic-tac-toe) game using console terminal.
 
 The project was created with the aim of creating something fun and more customizable.
 
+## Installation
 To run the game you need to have:
 - Versions after Java 8
 
@@ -34,4 +35,8 @@ The end of the game:
 ## Authors
 
 - [Erik Gurzau](https://www.github.com/erik3101)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
