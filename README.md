@@ -30,3 +30,8 @@ The end of the game:
 
 ![App Screenshot](./media/screenshot_win.png) ![App Screenshot](./media/screenshot_pareggio.png)
 
+
+## Authors
+
+- [@katherinepeterson](https://www.github.com/erik3101)
+
