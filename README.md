@@ -32,7 +32,7 @@ The end of the game:
 ![App Screenshot](./media/screenshot_win.png) ![App Screenshot](./media/screenshot_pareggio.png)
 
 
-# Feedback
+### Feedback
 If you have any feedback, please reach out to us at fake@fake.com
 
 ## License
