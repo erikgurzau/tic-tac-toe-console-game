@@ -8,4 +8,5 @@ To run the game you need to have:
 
 ## The game
 With command above you can already start the game and be taken to the initial screen of presentation
+
 ![App Screenshot](./media/screenshot_menu.png)
