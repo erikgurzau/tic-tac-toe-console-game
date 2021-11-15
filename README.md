@@ -32,9 +32,8 @@ The end of the game:
 ![App Screenshot](./media/screenshot_win.png) ![App Screenshot](./media/screenshot_pareggio.png)
 
 
-## Authors
-
-- [Erik Gurzau](https://www.github.com/erik3101)
+# Feedback
+If you have any feedback, please reach out to us at fake@fake.com
 
 ## License
 
