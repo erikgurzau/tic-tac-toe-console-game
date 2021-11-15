@@ -18,6 +18,7 @@ After choosing the type of game, the empty game grid appears waiting for the pla
 ![App Screenshot](./media/screenshot_empty.png)
 
 To place your own symbol just enter the row and column number.
+
 It is not possible to enter the symbol in an already occupied box or to enter values out of range 0 - N, where N is the number of rows or columns in the grid
 
 ![App Screenshot](./media/screenshot_error.png)
