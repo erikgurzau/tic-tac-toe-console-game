@@ -5,7 +5,12 @@ The project was created with the aim of creating something fun and more customiz
 
 ### Installation
 To run the game you need to have:
-- Versions after Java 8
+* Versions after Java 8
+
+Now how do you execute?
+> Enter the following command
+    
+    java -jar target/chess-terminal-console-game-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 ### The Game
 With command above you can already start the game and be taken to the initial screen of presentation
