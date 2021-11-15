@@ -8,7 +8,7 @@ To run the game you need to have:
 * Versions after Java 8
 
 ### The Game
-With command above you can already start the game and be taken to the initial screen of presentation
+When you start the game, the following introductory splash screen appears
 
 ![menu](./media/screenshot_menu.png)
 
