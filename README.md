@@ -33,5 +33,5 @@ The end of the game:
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/erik3101)
+- [Erik Gurzau](https://www.github.com/erik3101)
 
