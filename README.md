@@ -1,5 +1,5 @@
 # tris-console-terminal
-Java tris game using console terminal.
+Java tris (tic-tac-toe) game using console terminal.
 
 The project was created with the aim of creating something fun and more customizable.
 
