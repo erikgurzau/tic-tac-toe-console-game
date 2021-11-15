@@ -22,3 +22,10 @@ To place your own symbol just enter the row and column number.
 It is not possible to enter the symbol in an already occupied box or to enter values out of range 0 - N, where N is the number of rows or columns in the grid
 
 ![App Screenshot](./media/screenshot_error.png)
+
+
+The end of the game:
+- The winner is the one who places his symbol three times in line on the same row or column or on one of the two diagonals of the grid.
+- Draw if no one has been able to align their symbol or finish the available grid spaces
+
+![App Screenshot](./media/screenshot_error.png)
