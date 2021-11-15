@@ -29,13 +29,13 @@ It is not possible to enter the symbol in an already occupied box or to enter va
 - The winner is the one who places his symbol three times in line on the same row or column or on one of the two diagonals of the grid.
 - Draw if no one has been able to align their symbol or finish the available grid spaces
 
+
 ![App Screenshot](./media/screenshot_win.png) ![App Screenshot](./media/screenshot_pareggio.png)
 
 
 ### Feedback
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at gurzau10@gmail.com
 
 ### License
-
 [MIT](https://choosealicense.com/licenses/mit/)
 
