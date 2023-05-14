@@ -1,4 +1,4 @@
-# Tris Console Game (Tic-Tac-Toe) [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=erikgurzau&repo=tris-console-terminal)](https://github.com/erikgurzau/tris-console-terminal)
+# Tris Console Game (Tic-Tac-Toe) ![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=erikgurzau.tris-console-terminal)
 
 This is a simple command-line implementation of the classic Tris (Tic-Tac-Toe) with an improved CLI graphics system.
 
