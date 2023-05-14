@@ -1,13 +1,17 @@
-# tris-console-terminal
-Java tris (tic-tac-toe) game using console terminal.
+# Tris Console Game (Tic-Tac-Toe)
+This is a simple command-line implementation of the classic Tris (Tic-Tac-Toe) with an improved CLI graphics system.
 
-The project was created with the aim of creating something fun and more customizable.
+## Getting Started
+### Prerequisites
+You will need to have Java 8+ installed on your computer to run this game.
 
 ### Installation
-To run the game you need to have:
-* Versions after Java 8
+1. Clone or download this repository to your local machine.
+2. Navigate to the project directory.
+3. Compile the `Main.java` file by running the command `javac Main.java` in the terminal.
+4. Run the game by entering the command `java Main` in the terminal.
 
-### The Game
+## The Game
 When you start the game the following menu appears on the home screen
 
 ![menu](./media/screenshot_menu.png)
